@@ -170,16 +170,32 @@ I also work on custom systems such as:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gajarthan&show_icons=true&locale=en" alt="Gajarthan GitHub statistics" />
+  <a href="https://github.com/gajarthan">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=gajarthan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default"
+      alt="Gajarthan's GitHub statistics"
+    />
+  </a>
+
+  <a href="https://github.com/gajarthan">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajarthan&layout=compact&langs_count=8&hide_border=true&theme=default"
+      alt="Gajarthan's most-used languages"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajarthan&show_icons=true&locale=en&layout=compact" alt="Gajarthan most-used languages" />
+  <a href="https://github.com/gajarthan">
+    <img
+      src="https://streak-stats.demolab.com?user=gajarthan&hide_border=true&theme=default"
+      alt="Gajarthan's GitHub contribution streak"
+    />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gajarthan" alt="Gajarthan GitHub contribution streak" />
-</p>
 
 ---
 
